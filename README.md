@@ -12,4 +12,4 @@
 
 4. Click Play button to run the simulator
 ### 3 
-
+![demo](indoor_DNT_gif_new.gif)
