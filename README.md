@@ -23,4 +23,4 @@
 ![Alt](Source/DTpositioningpy/traj.png)
 
 ### 5 Acknowledgement
-We used the simulation system from paper: "DeepWiSim: A Wireless Signal Simulator for Automatic Deep Learning"
+We used the simulation system from paper: "Zhongzheng Lai, Dong Yuan, Wei Bao, Yu Zhang, and Bing Bing Zhou. 2022. DeepWiSim: a wireless signal simulator for automatic deep learning. In Proceedings of the SIGCOMM '22 Poster and Demo Sessions (SIGCOMM '22). Association for Computing Machinery, New York, NY, USA, 13–15. https://doi.org/10.1145/3546037.3546049"
