@@ -11,5 +11,7 @@
 3. Click Build button to build the project
 
 4. Click Play button to run the simulator
-### 3 
+### 3 Simulation details
+1. You can use WADS and mouse to move the human object freely. 
+2. Press tab to switch between the player mode and the God mode.
 ![demo](indoor_DNT_gif_new.gif)
