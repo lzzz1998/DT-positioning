@@ -21,3 +21,6 @@
 1. Run ev.py in Source/DTPositioningpy to get the localization results
 
 ![Alt](Source/DTpositioningpy/traj.png)
+
+### 5 Acknowledgement
+We used the simulation system from paper: "DeepWiSim: A Wireless Signal Simulator for Automatic Deep Learning"
