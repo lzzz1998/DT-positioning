@@ -14,4 +14,8 @@
 ### 3 Simulation details
 1. You can use WADS and mouse to move the human object freely. 
 2. Press tab to switch between the player mode and the God mode.
+   
 ![demo](indoor_DNT_gif_new.gif)
+
+### 4 Localization
+1. 
