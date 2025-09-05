@@ -18,4 +18,6 @@
 ![demo](indoor_DNT_gif_new.gif)
 
 ### 4 Localization
-1. 
+1. Run ev.py in Source/DTPositioningpy to get the localization results
+
+![Alt](Source)
