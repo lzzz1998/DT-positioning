@@ -27,11 +27,11 @@ You can open the settings menu to change parameters.
 - `Ray-trace Distance (cm)`, controls how far the ray can reach.
 - `Ray-trace Depth (cm)`, controls the number of times the ray can be reflected.
 
-  ### Localization
+### Localization
 
   run ev.py in Source/DTpositioingpy to reproduce the result.
 
- ### Acknowledge 
+### Acknowledge 
 
  We use the wireless simulation tool from Zhongzheng Lai, Dong Yuan, Wei Bao, Yu Zhang, and Bing Bing Zhou. 2022. DeepWiSim: a wireless signal simulator for automatic deep learning. In Proceedings of the SIGCOMM '22 Poster and Demo Sessions (SIGCOMM '22). Association for Computing Machinery, New York, NY, USA, 13–15. https://doi.org/10.1145/3546037.3546049
 
