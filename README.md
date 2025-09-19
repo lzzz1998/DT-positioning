@@ -30,6 +30,7 @@ You can open the settings menu to change parameters.
 ### Localization
 
   run ev.py in Source/DTpositioingpy to reproduce the result.
+  ![My figure](Source/DTpositioningpy/traj.png)
 
 ### Acknowledge 
 
