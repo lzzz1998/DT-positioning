@@ -17,6 +17,9 @@ A digital-twin platform to simulate UE movement and perform localization.
 
 3. Click Play button to run the simulator
 
+![Alt text](simu.gif)
+
+
 ### Simulator Settings
 
 You can open the settings menu to change parameters.
