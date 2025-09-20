@@ -37,5 +37,6 @@ You can open the settings menu to change parameters.
 
 ### Acknowledge 
 
- ### Ref: DeepWiSim: a wireless signal simulator for automatic deep learning. In Proceedings of the SIGCOMM '22 Poster and Demo Sessions (SIGCOMM '22). https://doi.org/10.1145/3546037.3546049
+1. Ref: DeepWiSim: a wireless signal simulator for automatic deep learning. In Proceedings of the SIGCOMM '22 Poster and Demo Sessions (SIGCOMM '22). https://doi.org/10.1145/3546037.3546049
+2. NICE Lab, NCSU
 
